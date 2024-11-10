@@ -1,9 +1,9 @@
-#PROYECTO DE LA MATERIA DE COMPUTACIÓN TOLERANTE A FALLAS
+# PROYECTO DE LA MATERIA DE COMPUTACIÓN TOLERANTE A FALLAS
 
 ## Requisitos
 Instalar minikube y docker para su ejecución de manera local
 
-##Crear cluster:
+## Crear cluster:
 
 minikube start --driver=docker
 
